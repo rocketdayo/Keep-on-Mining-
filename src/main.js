@@ -1,4 +1,6 @@
-import Phaser from "phaser";
+// src/main.js
+// updated: 2026-07-04 (v0.1.1)
+
 import GameScene from "./scenes/GameScene.js";
 
 const config = {
